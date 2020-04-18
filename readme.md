@@ -4,6 +4,10 @@ Git is free software distributed under the GPL.
 
 
 
+Git has a mutable index called stage.
+
+
+
 How to use the GitHub ?
 
 1. init
