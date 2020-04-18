@@ -10,6 +10,10 @@ Git tracks changes of files.
 
 
 
+Creating a new branch is quick.
+
+
+
 How to use the GitHub ?
 
 1. init
